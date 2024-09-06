@@ -1,4 +1,6 @@
-Resume Builder App
+                                                          Resume Builder App
+
+                                                       
 This is a vanilla JavaScript-based Resume Builder application designed to help users create professional resumes quickly and efficiently. The app features a dynamic form interface powered by jQuery Repeater, allowing users to easily add and customize their resume sections, such as projects, education, and experiences. Upon completion, the app generates a PDF of the resume.
 
 Key Features
